@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMG_1774.png" alt="Alexander Small header" width="100%" />
+  <img src="IMG_1774.png" alt="Alexander Small header" width="50%" />
 </p>
 
 ### About Me
