@@ -2,8 +2,6 @@
   <img src="https://alexandersmall.dev/textures/portrait.png" alt="Alexander Small header" width="100%" />
 </p>
 
-## Hi, I'm Alexander (Zander) Small
-
 ### About Me
 I'm a Software Engineer with 4 years of experience specializing in Machine Learning and AI. I hold a master's degree in Software Engineering (AI concentration) from St. Mary's University in San Antonio, TX.  
 When I’m not building AI systems, I’m deep in anime and the weeb world—and yes, I’ve drifted JDM cars in the Japanese mountains.
