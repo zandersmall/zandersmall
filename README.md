@@ -3,7 +3,7 @@
 </p>
 
 ### About Me
-I'm a Software Engineer with 4 years of experience specializing in Machine Learning and AI. I hold a master's degree in Software Engineering (AI concentration) from St. Mary's University in San Antonio, TX.  
+I'm a Software Engineer specializing in Machine Learning and AI. I hold a bachelors's degree in Software Engineering (AI concentration) from St. Mary's University in San Antonio, TX.  
 When I’m not building AI systems, I’m deep in anime and the weeb world—and yes, I’ve drifted JDM cars in the Japanese mountains.
 
 ### Skills
